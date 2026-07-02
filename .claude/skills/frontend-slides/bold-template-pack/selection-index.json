@@ -2,7 +2,7 @@
   "schema_version": 1,
   "pack_name": "Beautiful HTML Templates - Bold Design Pack",
   "source_repo": "zarazhangrui/beautiful-html-templates",
-  "template_count": 34,
+  "template_count": 35,
   "usage": {
     "selection": "Read this compact index first to shortlist bold templates from metadata.",
     "previews": "For title-slide previews, read only the preview_md files for the shortlisted bold candidates.",
@@ -828,6 +828,30 @@
       "avoid_for": "Contexts that should feel quiet or institutional — the black-and-electric-yellow palette is the loudest in the library.",
       "preview_md": "bold-template-pack/templates/studio/preview.md",
       "design_md": "bold-template-pack/templates/studio/design.md"
+    },
+    {
+      "slug": "tawuniya",
+      "name": "Tawuniya",
+      "tagline": "Vivid violet on white, deep navy-violet weight, and rationed mint confidence — a brand-accurate insurance/financial system built from Tawuniya's own theme.",
+      "mood": [
+        "trustworthy",
+        "modern",
+        "confident",
+        "institutional-but-warm"
+      ],
+      "tone": [
+        "clear",
+        "considered",
+        "brand-precise",
+        "corporate-yet-contemporary"
+      ],
+      "formality": "medium-high",
+      "density": "medium",
+      "scheme": "light",
+      "best_for": "Anything that should read as insurance-, finance-, or institution-grade while staying visually modern: client-facing proposals, quarterly/board updates, product or policy explainers, partner and broker decks, internal strategy reviews. Purpose-built for Tawuniya-branded material, but equally usable by other insurance, financial-services, or B2B institutional brands that want a violet-led (rather than navy-led) trust palette.",
+      "avoid_for": "Contexts that want to feel playful, handmade, or maximalist — the single-accent, single-family discipline is deliberately restrained. Also avoid if brand-accuracy to Tawuniya specifically matters and a real logo/font asset is required — this template documents its font substitution and missing-logo gap openly.",
+      "preview_md": "bold-template-pack/templates/tawuniya/preview.md",
+      "design_md": "bold-template-pack/templates/tawuniya/design.md"
     },
     {
       "slug": "vellum",
